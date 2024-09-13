@@ -1,4 +1,4 @@
-# CyberSecurity_Documentation
+# [Fundamentals Of Cybersecurity](https://github.com/atamalajopyetie/CyberSecurity_Documentation/tree/main)
 This Documentations provides a comprehensive understanding of cybersecurity basics.
 It is really helpful for a begginer to start form here.
 
@@ -23,6 +23,9 @@ It covers following topics:
 18) Penetration Testing
 
 These basics will dfinately help you.
+
+# https://github.com/atamalajopyetie/CyberSecurity_Documentation/tree/main
+The Linux file permissions documentation outlines how access rights are managed for files and directories in a Linux system. It details the use of permission types (read, write, execute) and their assignment to users, groups, and others. The document explains the symbolic and numeric methods for setting permissions, the role of user and group ownership, and commands such as chmod, chown, and chgrp used to modify these permissions.
 
 
 
